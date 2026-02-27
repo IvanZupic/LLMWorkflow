@@ -4,5 +4,5 @@ This is a repository for the paper "A Human-Centered Workflow for Using Large La
 It contains the following materials:
 - the latest version of the paper
 - instructions how to set up your environment to use GPT (Open AI) and Gemini (Google) through API
-- prompt library (examples of prompts I've used in my projects)
-- Python code in Jupyter notebook format for using the process with Open AI and Google API
+- Folder "Prompt library" (examples of prompts I've used in my projects)
+- Folder "Code" - Python code in Jupyter notebook format for using the process with Open AI and Google API
