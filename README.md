@@ -1,5 +1,5 @@
 # LLMWorkflow
-This is a repository for the paper "A Human-Centered Workflow for Using Large Language Models in Content Analysis". The paper develops a workflow for using LLMs in three content analysis tasks: annotation, summarization and information extraction. 
+This is a repository for the paper "A Human-Centered Workflow for Using Large Language Models in Content Analysis". The paper presentss a workflow for using LLMs in three content analysis tasks: annotation, summarization and information extraction. 
 
 It contains the following materials:
 - the latest version of the paper "A Human-Centered Workflow for Using Large Language Models in Content Analysis"
